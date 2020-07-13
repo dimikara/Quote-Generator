@@ -1,0 +1,122 @@
+html {
+    box-sizing: border-box;
+    font-family: "Mina", sans-serif, arial;
+}
+  
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+  
+body {
+  background: #ffffff url('../img/light-veneer.png'); 
+  /* Credit: www.toptal.com/designers/subtlepatterns */
+}
+  
+.app {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  background: linear-gradient(160deg, #dac37d 0%, rgb(187, 121, 61) 100%);
+  box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+  border-radius: 10px;
+}
+  
+header {
+  width: 100%;
+  font-size: 35px;
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid #ebebeb;
+}
+  
+.quotes {
+  padding: 20px 50px;
+  min-height: 200px;
+}
+  
+.quote-text {
+  padding: 30px 0;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  font-style: oblique;
+}
+  
+.buttons {
+  width: 100%;
+  padding: 20px 50px;
+}
+  
+.button {
+  display: block;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  cursor: default;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  font-family: "Mina", sans-serif, arial;
+}
+  
+.twitter {
+  background: linear-gradient(160deg, #1DA1F2 0%, #3B5990 30%);
+  text-decoration: none;
+}
+  
+.new-quote {
+  background: linear-gradient(160deg, #DB9C62 0%, #4d2600 30%);
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+    
+@media screen and (max-width: 600px) {
+  .app {
+    width: 100%;
+  }
+  header {
+    font-size: 19px;
+  }
+  .quote-text {
+    font-size: 18px;
+  }
+}
+
+
+/* Footer section */
+footer {
+  text-align: center;
+}
+
+
+.u-list {
+  list-style-type: none;
+}
+
+
+.copyright-and-credits {
+  padding: 10px;  
+  margin: 20px;
+}
+
+
+/* Idea of negative margin to set the distance between the flexbox items, taken from: 
+https://stackoverflow.com/questions/20626685/better-way-to-set-distance-between-flexbox-items */
+
+.social-media-icons {
+  display: flex;
+  margin: 0 -5px;
+  justify-content: center;
+}
+
+
+.smi-item {
+  margin: 0 15px;
+}
