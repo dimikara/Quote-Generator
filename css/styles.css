@@ -16,7 +16,7 @@ body {
   /* Credit: www.toptal.com/designers/subtlepatterns */
 }
   
-.quote generator {
+.quote-generator {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -78,7 +78,7 @@ header {
 }
     
 @media screen and (max-width: 600px) {
-  .quote generator {
+  .quote-generator {
     width: 100%;
   }
   header {
