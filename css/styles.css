@@ -12,8 +12,7 @@ html {
 }
   
 body {
-  background: #ffffff url('../img/light-veneer.png'); 
-  /* Credit: www.toptal.com/designers/subtlepatterns */
+  background: #ffffff url('../img/light-veneer.png');
 }
   
 .quote-generator {
