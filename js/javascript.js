@@ -179,6 +179,38 @@ const myQuotes = [
     {
         "quote": "Some people want it to happen, some wish it would happen, others make it happen.",
         "author": "Michael Jordan"
+    },
+    {
+        "quote": "Don't limit your challenges. Challenge your limits.",
+        "author": "Unknown"
+    },
+    {   
+        "quote": "The key to success is to focus on goals, not obstacles.",
+        "author": "Unknown"
+    },
+    {   
+        "quote": "You are only confined by the walls you build yourself.",
+        "author": "Unknown"
+    },
+    {   
+        "quote": "If you never failed, you never tried anything new.",
+        "author": "Unknown"
+    },
+    {   
+        "quote": "Whether you think you can or you think you can't, you're right.",
+        "author": "Henry Ford"
+    },
+    {   
+        "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+        "author": "Robert Louis Stevenson"
+    },
+    {   
+        "quote": "If it doesn't challenge you, it won't change you.",
+        "author": "Fred Devito"
+    },
+    {   
+        "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison"
     }
 ];
 
