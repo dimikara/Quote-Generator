@@ -163,6 +163,22 @@ const myQuotes = [
     {
         "quote": "You didn't come this far to only come this far.",
         "author": "Unknown"
+    },
+    {
+        "quote": "The best time to plant a tree was 20 years ago. The second best time is now!",
+        "author": "Chinese proverb"
+    },
+    {
+        "quote": "Be willing to walk alone. Many who started with you, won't finish with you.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Best way to get something done is to begin.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Some people want it to happen, some wish it would happen, others make it happen.",
+        "author": "Michael Jordan"
     }
 ];
 
@@ -193,8 +209,8 @@ function getQuote() {
 }
 
 /*
-This is done in order to make a quote display when a user reloads or 
-visits the page for the first time.
+This is done in order to make a quote display when a user visits
+the page for the first time or reloads it.
 Check more here: 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event
 */
