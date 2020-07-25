@@ -211,6 +211,26 @@ const myQuotes = [
     {   
         "quote": "I have not failed. I've just found 10,000 ways that won't work.",
         "author": "Thomas Edison"
+    },
+    {   
+        "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        "author": "Zig Ziglar"
+    },
+    {   
+        "quote": "You don't need to see the whole staircase, just take the first step.",
+        "author": "Martin Luther King Jr."
+    },
+    {   
+        "quote": "A lot of people have gone further than they thought they could because someone else thought they could.",
+        "author": "Zig Ziglar"
+    },
+    {   
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C. S. Lewis"
+    },
+    {
+        "quote": "Every problem is a gift — without problems we would not grow.",
+        "author": "Tony Robbins"
     }
 ];
 
