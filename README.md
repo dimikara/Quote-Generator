@@ -5,12 +5,12 @@ Can be run directly here:
 
 https://dimikara.github.io/Quote-Generator/
 
-I originally made it in order to get one motivational quote per day during the `#50daysofUdacity` challenge for my Microsoft Scholarship Foundation course in Machine Learning.
+I originally made it in order to get one motivational quote per day during the `#50daysofUdacity` challenge for my [Microsoft Scholarship Foundation course in Machine Learning](https://dimikara.github.io/50DaysOfUdacity/).
 
 ___
 ## Screenshot
 
-![Screenshot1](/img/Screenshot.JPG "The game on PC")
+![Screenshot1](/img/Screenshot.JPG "The quote machine")
 
 ___
 ## Credits & Attribution
