@@ -231,6 +231,18 @@ const myQuotes = [
     {
         "quote": "Every problem is a gift — without problems we would not grow.",
         "author": "Tony Robbins"
+    },
+    {
+        "quote": "You can never cross the ocean until you have the courage to lose sight of the shore",
+        "author": "Christopher Columbus"
+    },
+    {
+        "quote": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+        "author": "Samuel Beckett"
+    },
+    {
+        "quote": "When the winds of change blow, some people build walls and others build windmills",
+        "author": "Chinese proverb"
     }
 ];
 
