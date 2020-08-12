@@ -243,6 +243,10 @@ const myQuotes = [
     {
         "quote": "When the winds of change blow, some people build walls and others build windmills",
         "author": "Chinese proverb"
+    },
+    {
+        "quote": "Always walk through life as you if you have something new to learn and you will",
+        "author": "Vernon Howard"
     }
 ];
 
@@ -283,11 +287,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 )
 
-/*
-Inspiration from:
-https://freshman.tech/random-quote-machine/
-https://inspiredwebdev.com/create-random-quote-machine
-*/
 
 /*
 I want to check more thoroughly the Template Literals:
