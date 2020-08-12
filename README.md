@@ -16,8 +16,10 @@ ___
 ___
 ## Credits & Attribution
 
+* Inspiration from: https://freshman.tech/random-quote-machine/ &
+https://inspiredwebdev.com/create-random-quote-machine
 * Font: [Mina](https://fonts.google.com/specimen/Mina?query=Mina) by Google 
-* Background pattern taken from www.toptal.com/designers/subtlepatterns
+* Background pattern taken from: www.toptal.com/designers/subtlepatterns
 * Licence badge from [Shields.IO](https://shields.io/)
 ___
 
