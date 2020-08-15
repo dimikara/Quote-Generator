@@ -247,6 +247,26 @@ const myQuotes = [
     {
         "quote": "Always walk through life as you if you have something new to learn and you will",
         "author": "Vernon Howard"
+    },
+    {
+        "quote": "Sometimes you don't realize your own strength until you come face to face with your greatest weakness",
+        "author": "Susan Gale"
+    },
+    {
+        "quote": "The only difference between ordinary and extraordinary is that little extra",
+        "author": "Jimmy Johnson"
+    },
+    {
+        "quote": "The secret of getting ahead is getting started",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "If you want to build a ship, don't drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.",
+        "author": "Antoine de Saint-Exypery"
+    },
+    {
+        "quote": "Take action! An inch of movement will bring you closer to your goals than a mile of intention",
+        "author": "Dr. Steve Maraboli"
     }
 ];
 
