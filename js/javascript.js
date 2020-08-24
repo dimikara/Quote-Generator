@@ -273,16 +273,48 @@ const myQuotes = [
         "author": "Stephen Hawking"
     },
     {
-        "quote": "",
-        "author": ""
+        "quote": "It’s not the load that breaks you down, it’s the way you carry it.",
+        "author": "Unknown"
     },
     {
-        "quote": "",
-        "author": ""
+        "quote": "Go the extra mile. It's never crowded there.",
+        "author": "Dr. Wayne D. Dyer"
     },
     {
-        "quote": "",
-        "author": ""
+        "quote": "The day that you plant the seed is not the day you eat the fruit.",
+        "author": "Fabienne Fredrickson"
+    },
+    {
+        "quote": "A pessimist sees the difficulty in every opportunity: an optimist sees the opportunity in every difficulty.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Challenges are what makes life interesting. Overcoming them is what makes life meaningful.",
+        "author": "Joshua J. Marine"
+    },
+    {
+        "quote": "Never give up on something you really want. It's difficult to wait, but it's more difficult to regret.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "There will come a time when you believe everything is finished; that will be the beginning.",
+        "author": "Louis L'Amour"
+    },
+    {
+        "quote": "The important thing in life is to have a great aim, and the determination to attain it.",
+        "author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "quote": "The miracle isn't that I finished. It's that I had the courage to start.",
+        "author": "John Bingham"
+    },
+    {
+        "quote": "What's done is done. What's gone is gone. One of life's lessons is always moving on. It's okay to look back to see how far you've come but keep moving forward.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "quote": "When you doubt your power, you give power to your doubt.",
+        "author": "Unknown"
     }
 ];
 
