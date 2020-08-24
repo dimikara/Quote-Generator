@@ -321,9 +321,11 @@ const myQuotes = [
 /*
 At first I wanted to use the free API below but unfortunately does not allow 
 any parameters in order to fetch only one quote at a time; so using 
-the endpoint below results in getting an array with all the quotes.
+the below endpoint results in getting an array with all the quotes.
 NOT what I was looking for.
 const endpoint = 'https://type.fit/api/quotes';
+Plus, I want to have control over the quotes and make appear only selected 
+quotes of my preference.
 */
 
 
