@@ -315,6 +315,26 @@ const myQuotes = [
     {
         "quote": "When you doubt your power, you give power to your doubt.",
         "author": "Unknown"
+    },
+    {
+        "quote": "Pause if you're tired, but don't stop.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "As I look back on my life, I realize that every time I thought I was being rejected from something good, I was actually being redirected to something better.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Breathe, darling. This is just a chapter, not your whole story.",
+        "author": "S. C. Lourie"
+    },
+    {
+        "quote": "A smooth sea never made a skilled sailor.",
+        "author": "Franklin Roosvelt"
+    },
+    {
+        "quote": "It is never too late to be what you might have been.",
+        "author": "George Eliot"
     }
 ];
 
