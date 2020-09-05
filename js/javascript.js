@@ -335,6 +335,26 @@ const myQuotes = [
     {
         "quote": "It is never too late to be what you might have been.",
         "author": "George Eliot"
+    },
+    {
+        "quote": "More is lost by indecision than wrong decision. Indecision is the thief of opportunity. It will steal you blind.",
+        "author": "Marcus Tullius Cicero"
+    },
+    {
+        "quote": "The greatest pleasure in life is doing what people say you cannot do.",
+        "author": "Walter Bagehot"
+    },
+    {
+        "quote": "We know what we are, but not what we may be.",
+        "author": "William Shakespeare"
+    },
+    {
+        "quote": "A river cuts through rock, not because of its power, but because of its persistence.",
+        "author": "Jim Watkins"
+    },
+    {
+        "quote": "If it is important to you, you will find a way. If not, you will find an excuse.",
+        "author": "Ryan Blair"
     }
 ];
 
