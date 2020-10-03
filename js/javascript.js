@@ -355,6 +355,34 @@ const myQuotes = [
     {
         "quote": "If it is important to you, you will find a way. If not, you will find an excuse.",
         "author": "Ryan Blair"
+    },
+    {
+        "quote": "Excuses don't get results.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "You many never know what results come of your actions, but if you do nothing, there will be no results.",
+        "author": "Mahatma Ghandi"
+    },
+    {
+        "quote": "Look for the answer inside your question.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Knowledge is the treasure of a wise man.",
+        "author": "William Penn"
+    },
+    {
+        "quote": "Learning without thought is labor lost; thought without learning is perilous.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.",
+        "author": "Naguib Mahfouz"
+    },
+    {
+        "quote": "Neither a wise man nor a brave man lies down on the tracks of history to wait for the train of the future to run over him.",
+        "author": "Dwight D. Eisenhower"
     }
 ];
 
