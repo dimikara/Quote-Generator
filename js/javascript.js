@@ -383,6 +383,26 @@ const myQuotes = [
     {
         "quote": "Neither a wise man nor a brave man lies down on the tracks of history to wait for the train of the future to run over him.",
         "author": "Dwight D. Eisenhower"
+    },
+    {
+        "quote": "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
+        "author": "Dr. David M. Burns"
+    },
+    {
+        "quote": "The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.",
+        "author": "Booker Washington"
+    },
+    {
+        "quote": "Don't let what you can't do stop you from doing what you can do.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Complaining doesn't change a thing only taking action does.",
+        "author": "Byron Pulsifer"
+    },
+    {
+        "quote": "Everything in the universe goes by indirection. There are no straight lines.",
+        "author": "Ralph Emerson"
     }
 ];
 
