@@ -403,6 +403,26 @@ const myQuotes = [
     {
         "quote": "Everything in the universe goes by indirection. There are no straight lines.",
         "author": "Ralph Emerson"
+    },
+    {
+        "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+        "author": "Napoleon Hill"
+    },
+    {
+        "quote": "Work while you have the light. You are responsible for the talent that has been entrusted to you.",
+        "author": "Henri-Frederic Amiel"
+    },
+    {
+        "quote": "An obstacle may be either a stepping stone or a stumbling block.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "All is flux; nothing stays still.",
+        "author": "Heraclitus"
+    },
+    {
+        "quote": "The eye sees only what the mind is prepared to comprehend.",
+        "author": "Henri Bergson"
     }
 ];
 
