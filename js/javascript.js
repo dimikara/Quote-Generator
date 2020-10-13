@@ -423,6 +423,26 @@ const myQuotes = [
     {
         "quote": "The eye sees only what the mind is prepared to comprehend.",
         "author": "Henri Bergson"
+    },
+    {
+        "quote": "The only time you should look back, is to see how far you've come.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "There is nothing in a caterpillar that tells you it’s going to be a butterfly.",
+        "author": "Buckminster Fuller"
+    },
+    {
+        "quote": "All the world is a laboratory to the inquiring mind.",
+        "author": "Dr. Martin H. Fischer"
+    },
+    {
+        "quote": "No road is long with good company.",
+        "author": "Turkish proverb"
+    },
+    {
+        "quote": "Climate is what we expect, weather is what we get.",
+        "author": "Mark Twain"
     }
 ];
 
