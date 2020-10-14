@@ -443,6 +443,26 @@ const myQuotes = [
     {
         "quote": "Climate is what we expect, weather is what we get.",
         "author": "Mark Twain"
+    },
+    {
+        "quote": "Opportunity dances with those already on the dance floor.",
+        "author": "H. Jackson Brown Jr."
+    },
+    {
+        "quote": "Don’t waste time waiting for inspiration. Begin, and inspiration will find you.",
+        "author": "H. Jackson Brown Jr."
+    },
+    {
+        "quote": "Nothing is more expensive than a missed opportunity.",
+        "author": "H. Jackson Brown Jr."
+    },
+    {
+        "quote": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.",
+        "author": "Martin Luther King Jr."
+    },
+    {
+        "quote": "When you get to the end of your rope, tie a knot and hang on.",
+        "author": "Franklin D. Roosvelt"
     }
 ];
 
