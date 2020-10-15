@@ -463,6 +463,26 @@ const myQuotes = [
     {
         "quote": "When you get to the end of your rope, tie a knot and hang on.",
         "author": "Franklin D. Roosvelt"
+    },
+    {
+        "quote": "The best preparation for tomorrow is doing your best today.",
+        "author": "H. Jackson Brown Jr."
+    },
+    {
+        "quote": "Remember that what's right isn't always popular, and what's popular isn't always right.",
+        "author": "H. Jackson Brown Jr."
+    },
+    {
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "When you have exhausted all possibilities, remember this - you haven't.",
+        "author": "Thomas Edison"
+    },
+    {
+        "quote": "Kites rise highest against the wind, not with it.",
+        "author": "Winston Churchill"
     }
 ];
 
