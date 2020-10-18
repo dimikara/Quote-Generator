@@ -483,6 +483,22 @@ const myQuotes = [
     {
         "quote": "Kites rise highest against the wind, not with it.",
         "author": "Winston Churchill"
+    },
+    {
+        "quote": "It is impossible for a man to learn what he thinks he already knows.",
+        "author": "Epictetus"
+    },
+    {
+        "quote": "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "I walk slowly, but I never walk backward.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+        "author": "Michelangelo"
     }
 ];
 
