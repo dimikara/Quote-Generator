@@ -499,6 +499,10 @@ const myQuotes = [
     {
         "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
         "author": "Michelangelo"
+    },
+    {
+        "quote": "Don't be afraid to start over. This time you're not starting from scratch, you're starting from experience.",
+        "author": "Unknown"
     }
 ];
 
@@ -531,7 +535,7 @@ function getQuote() {
 /*
 This is done in order to make a quote display when a user visits
 the page for the first time or reloads it.
-Check more here: 
+For more, check here: 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event
 */
 document.addEventListener('DOMContentLoaded', () => {
