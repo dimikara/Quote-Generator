@@ -503,6 +503,22 @@ const myQuotes = [
     {
         "quote": "Don't be afraid to start over. This time you're not starting from scratch, you're starting from experience.",
         "author": "Unknown"
+    },
+    {
+        "quote": "What is not started today is never finished tomorrow.",
+        "author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "quote": "If you are going through hell, keep going.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Hire character. Train skill.",
+        "author": "Peter Schutz"
+    },
+    {
+        "quote": "We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses.",
+        "author": "Abraham Lincoln"
     }
 ];
 
