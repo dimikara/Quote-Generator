@@ -519,6 +519,22 @@ const myQuotes = [
     {
         "quote": "We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses.",
         "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "Sometimes when you're in a dark place you think you've been buried, but actually you've been planted.",
+        "author": "Christine Caine"
+    },
+    {
+        "quote": "Two things define you. Your patience when you have nothing, and your attitude when you have everything.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Fortune knocks but once, but misfortune has much more patience.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "When the world says 'Give up,' hope whispers 'Try it one more time'.",
+        "author": "Unknown"
     }
 ];
 
