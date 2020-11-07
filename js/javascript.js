@@ -535,6 +535,10 @@ const myQuotes = [
     {
         "quote": "When the world says 'Give up,' hope whispers 'Try it one more time'.",
         "author": "Unknown"
+    },
+    {
+        "quote": "All good things arrive unto them that wait--and don't die in the meantime.",
+        "author": "Mark Twain"
     }
 ];
 
