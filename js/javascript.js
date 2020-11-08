@@ -539,6 +539,10 @@ const myQuotes = [
     {
         "quote": "All good things arrive unto them that wait--and don't die in the meantime.",
         "author": "Mark Twain"
+    },
+    {
+        "quote": "If you don't like something, change it. If you can't change it, change your attitude.",
+        "author": "Maya Angelou"
     }
 ];
 
