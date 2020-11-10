@@ -543,6 +543,10 @@ const myQuotes = [
     {
         "quote": "If you don't like something, change it. If you can't change it, change your attitude.",
         "author": "Maya Angelou"
+    },
+    {
+        "quote": "Courage is not having the strength to go on... It's going on when you don't have the strength.",
+        "author": "Unknown"
     }
 ];
 
