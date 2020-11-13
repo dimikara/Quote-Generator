@@ -547,6 +547,10 @@ const myQuotes = [
     {
         "quote": "Courage is not having the strength to go on... It's going on when you don't have the strength.",
         "author": "Unknown"
+    },
+    {
+        "quote": "A diamond is a chunk of coal that did well under pressure.",
+        "author": "Unknown"
     }
 ];
 
