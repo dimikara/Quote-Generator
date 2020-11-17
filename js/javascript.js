@@ -551,6 +551,18 @@ const myQuotes = [
     {
         "quote": "A diamond is a chunk of coal that did well under pressure.",
         "author": "Unknown"
+    },
+    {
+        "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "quote": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson"
     }
 ];
 
