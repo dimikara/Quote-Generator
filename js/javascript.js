@@ -563,6 +563,18 @@ const myQuotes = [
     {
         "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
         "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The size of your dreams must always exceed your current capacity to achieve them.",
+        "author": "Ellen Johnson Sirleaf"
+    },
+    {
+        "quote": "Sometimes the place you are used to is not the place you belong. You belong where you believe you belong.",
+        "author": "Unknown"
+    },
+    {
+        "quote": "Name the greatest of all inventors. Accident.",
+        "author": "Mark Twain"
     }
 ];
 
