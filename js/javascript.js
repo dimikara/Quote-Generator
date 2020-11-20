@@ -575,6 +575,14 @@ const myQuotes = [
     {
         "quote": "Name the greatest of all inventors. Accident.",
         "author": "Mark Twain"
+    },
+    {   
+        "quote": "In the middle of difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {   
+        "quote": "Any fool can know. The point is to understand.",
+        "author": "Albert Einstein"
     }
 ];
 
