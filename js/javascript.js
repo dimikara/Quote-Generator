@@ -583,6 +583,10 @@ const myQuotes = [
     {   
         "quote": "Any fool can know. The point is to understand.",
         "author": "Albert Einstein"
+    },
+    {
+        "quote": "Don't judge me by my successes, judge me by how many times I fell down and got back up again.",
+        "author": "Nelson Mandela"
     }
 ];
 
