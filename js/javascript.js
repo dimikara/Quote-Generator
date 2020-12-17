@@ -587,6 +587,10 @@ const myQuotes = [
     {
         "quote": "Don't judge me by my successes, judge me by how many times I fell down and got back up again.",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+        "author": "Stephen Hawking"
     }
 ];
 
