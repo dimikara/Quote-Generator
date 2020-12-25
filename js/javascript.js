@@ -602,7 +602,11 @@ const myQuotes = [
     },
     {
         "quote": "Sometimes you face difficulties not because you're doing something wrong, but because you're doing something right.",
-        "author": "Unkonown"
+        "author": "Unknown"
+    },
+    {
+        "quote": "Don't close the book when bad things happen in your life, just turn the page and begin a new chapter.",
+        "author": "Unknown"
     }
 ];
 
