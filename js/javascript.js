@@ -607,6 +607,10 @@ const myQuotes = [
     {
         "quote": "Don't close the book when bad things happen in your life, just turn the page and begin a new chapter.",
         "author": "Unknown"
+    },
+    {
+        "quote": "Judge a person by their questions, rather than their answers.",
+        "author": "Voltaire"
     }
 ];
 
