@@ -611,6 +611,10 @@ const myQuotes = [
     {
         "quote": "Judge a person by their questions, rather than their answers.",
         "author": "Voltaire"
+    },
+    {
+        "quote": "Falling down is not a failure. Failure comes when you stay where you have fallen.",
+        "author": "Socrates"
     }
 ];
 
