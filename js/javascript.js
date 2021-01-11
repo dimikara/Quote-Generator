@@ -615,6 +615,10 @@ const myQuotes = [
     {
         "quote": "Falling down is not a failure. Failure comes when you stay where you have fallen.",
         "author": "Socrates"
+    },
+    {
+        "quote": "Stop being afraid of what could go wrong, and start being excited of what could go right.",
+        "author": "Tony Robbins"
     }
 ];
 
