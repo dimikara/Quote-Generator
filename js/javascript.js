@@ -619,6 +619,10 @@ const myQuotes = [
     {
         "quote": "Stop being afraid of what could go wrong, and start being excited of what could go right.",
         "author": "Tony Robbins"
+    },
+    {
+        "quote": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosvelt"
     }
 ];
 
