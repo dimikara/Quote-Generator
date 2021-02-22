@@ -623,6 +623,18 @@ const myQuotes = [
     {
         "quote": "Do what you can, with what you have, where you are.",
         "author": "Theodore Roosvelt"
+    },
+    {
+        "quote": "Paths are made by walking.",
+        "author": "Franz Kafka"
+    },
+    {
+        "quote": "Certain things catch your eye, but pursue only those that catch your heart.",
+        "author": "Indian Proverb"
+    },
+    {
+        "quote": "Inspiration exists, but it must find you working.",
+        "author": "Pablo Picasso"
     }
 ];
 
