@@ -635,6 +635,10 @@ const myQuotes = [
     {
         "quote": "Inspiration exists, but it must find you working.",
         "author": "Pablo Picasso"
+    },
+    {
+        "quote": "The two more powerful warriors are patience and time.",
+        "author": "Leo Tolstoy"
     }
 ];
 
