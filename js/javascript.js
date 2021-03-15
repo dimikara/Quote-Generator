@@ -639,6 +639,10 @@ const myQuotes = [
     {
         "quote": "The two more powerful warriors are patience and time.",
         "author": "Leo Tolstoy"
+    },
+    {
+        "quote": "Sweat more during peace; bleed less during war.",
+        "author": "Sun Tzu"
     }
 ];
 
