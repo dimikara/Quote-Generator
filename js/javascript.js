@@ -643,6 +643,10 @@ const myQuotes = [
     {
         "quote": "Sweat more during peace; bleed less during war.",
         "author": "Sun Tzu"
+    },
+    {
+        "quote": "Once we accept our limits, we go beyond them.",
+        "author": "Albert Einstein"
     }
 ];
 
