@@ -647,6 +647,10 @@ const myQuotes = [
     {
         "quote": "Once we accept our limits, we go beyond them.",
         "author": "Albert Einstein"
+    },
+    {
+        "quote": "Whenever you find yourself doubting how far you can go, just remember how far you have come. Remember everything you have faced, all the battles you won, and all the fears you have overcome.",
+        "author": "Unknown"
     }
 ];
 
