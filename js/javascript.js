@@ -651,6 +651,14 @@ const myQuotes = [
     {
         "quote": "Whenever you find yourself doubting how far you can go, just remember how far you have come. Remember everything you have faced, all the battles you won, and all the fears you have overcome.",
         "author": "Unknown"
+    },
+    {
+        "quote": "Be more concerned with your character than with your reputation. Your character is what you really are while your reputation is merely what others think you are.",
+        "author": "John Wooden"
+    },
+    {
+        "quote": "We don't grow when things are easy, we grow when we face challenges.",
+        "author": "Joyce Meyer"
     }
 ];
 
