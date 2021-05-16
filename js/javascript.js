@@ -659,6 +659,10 @@ const myQuotes = [
     {
         "quote": "We don't grow when things are easy, we grow when we face challenges.",
         "author": "Joyce Meyer"
+    },
+    {
+        "quote": "You never fail until you stop trying.",
+        "author": "Albert Einstein"
     }
 ];
 
